@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/assets/scale-logo-dark.png">
-  <img alt="Scale Venture Partners" src="profile/assets/scale-logo-light.png" width="280">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scale-venture-partners/.github/main/profile/assets/scale-logo-dark.png">
+  <img alt="Scale Venture Partners" src="https://raw.githubusercontent.com/scale-venture-partners/.github/main/profile/assets/scale-logo-light.png" width="280">
 </picture>
 
 **We back the few who can go the distance.**
