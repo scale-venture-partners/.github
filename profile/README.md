@@ -18,8 +18,9 @@ journey from founder-led growth to a go-to-market machine.
 
 ## Open source
 
-Our investment team builds and shares the tools it uses for its own
-AI-assisted engineering work.
+Our in-house data and engineering team builds the predictive models, agents,
+and software systems our investors use every day. As part of that work, we
+open-source projects from time to time.
 
 | Repo | What it does |
 | --- | --- |
