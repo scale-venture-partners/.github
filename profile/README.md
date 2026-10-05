@@ -28,3 +28,5 @@ open-source projects from time to time.
 | [windbag](https://github.com/scale-venture-partners/windbag) | A pre-commit linter that catches comments narrating a change instead of documenting the constraint that makes the code correct. |
 | [circleci-orb-version-bump](https://github.com/scale-venture-partners/circleci-orb-version-bump) | A CircleCI orb that fails a build when a package version wasn't bumped, with optional changelog enforcement. |
 | [swamp-claude-log-digest](https://github.com/scale-venture-partners/swamp-claude-log-digest) | A swamp extension that summarizes Claude Code session transcripts and distills reusable agent skills from them. |
+| [onus](https://github.com/scale-venture-partners/onus) | A claim checker that verifies a document's claims against its evidence, with numbers checked deterministically. |
+| [overset](https://github.com/scale-venture-partners/overset) | A deck linter that measures what each slide actually renders, with ruff-style rule codes. |
