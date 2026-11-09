@@ -31,3 +31,4 @@ open-source projects from time to time.
 | [pydantic-ai-glen](https://github.com/scale-venture-partners/pydantic-ai-glen) | A Pydantic AI capability that gives an agent a `glen_search` tool and records every run to Glen's shared team memory. |
 | [onus](https://github.com/scale-venture-partners/onus) | A claim checker that verifies a document's claims against its evidence, with numbers checked deterministically. |
 | [overset](https://github.com/scale-venture-partners/overset) | A deck linter that measures what each slide actually renders, with ruff-style rule codes. |
+| [pane](https://github.com/scale-venture-partners/pane) | A live terminal dashboard for open GitHub PRs and issues, with nested stacked PRs, rendered diffs, and a Claude action that repairs a PR or works through its CodeRabbit threads. |
